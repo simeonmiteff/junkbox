@@ -1,2 +1,2 @@
 # junkbox
-Miscellaneous scripts
+Miscellaneous scripts for future reference.
